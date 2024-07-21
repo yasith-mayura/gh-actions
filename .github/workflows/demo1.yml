@@ -17,7 +17,7 @@ on:
       - ' feat/**'
     
     paths:
-      '.github/workflows/*'
+      - '.github/workflows/*'
 
   
 jobs:
